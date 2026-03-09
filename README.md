@@ -4,8 +4,7 @@ A comprehensive, enterprise-grade secure wipe application with cross-platform su
 
 
 TO ACCESS THE APP -> https://drive.google.com/drive/folders/1zPwYieshWUH0PvcxDSc3lqvYnuIh5A-2?usp=drive_link
-FOLLOW THE INSTRUCTION PROVIDED 
-CONCEPT:->
+DEMO->https://youtu.be/EZpAHrWxUak
 
 ## 🏗️ Architecture
 
